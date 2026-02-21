@@ -1,17 +1,3 @@
-
-
-
-
->  ### [Nuxt3](https://nuxt.com/) codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld) spec and API.
-
-
-
-
-### [Demo](https://nuxt-realworld.netlify.app/)&nbsp;&nbsp;&nbsp;&nbsp;[RealWorld]
-
-
-
-
 This codebase was created to demonstrate a fully fledged fullstack application built with **[Nuxt3](https://nuxt.com/)** including CRUD operations, authentication, routing, pagination, and more.
 
 
