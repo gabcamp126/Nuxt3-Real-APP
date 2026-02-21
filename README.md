@@ -1,5 +1,4 @@
 
-# ![RealWorld Example App](logo.png)
 
 
 
@@ -8,7 +7,7 @@
 
 
 
-### [Demo](https://nuxt-realworld.netlify.app/)&nbsp;&nbsp;&nbsp;&nbsp;[RealWorld](https://github.com/gothinkster/realworld)
+### [Demo](https://nuxt-realworld.netlify.app/)&nbsp;&nbsp;&nbsp;&nbsp;[RealWorld]
 
 
 
@@ -21,7 +20,6 @@ We've gone to great lengths to adhere to the **[Nuxt3](https://nuxt.com/)** comm
 
 
 
-For more information on how to this works with other frontends/backends, head over to the [RealWorld](https://github.com/gothinkster/realworld) repo.
 
 
 
